@@ -1,0 +1,5 @@
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\bin\Release\hider.exe
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\bin\Release\hider.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Release\hider.exe
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Release\hider.pdb

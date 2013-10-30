@@ -1,0 +1,10 @@
+C:\Users\computer\AppData\Local\Temporary Projects\hider\bin\Debug\hider.exe
+C:\Users\computer\AppData\Local\Temporary Projects\hider\bin\Debug\hider.pdb
+C:\Users\computer\AppData\Local\Temporary Projects\hider\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\AppData\Local\Temporary Projects\hider\obj\x86\Debug\hider.exe
+C:\Users\computer\AppData\Local\Temporary Projects\hider\obj\x86\Debug\hider.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Debug\hider.exe
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Debug\hider.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\bin\Debug\hider.exe
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\bin\Debug\hider.pdb
+C:\Users\computer\documents\visual studio 2010\Projects\hider\hider\obj\x86\Debug\ResolveAssemblyReference.cache
